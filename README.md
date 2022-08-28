@@ -14,7 +14,7 @@ Basiclly this is an infinite loop reciving commands from the user.
 
 If the command is in our "Commands" we will execute it, if not we will send it to a regular bash and try to commit it.
 
-# Commands:
+## Commands:
 
 •	EXIT - exits the shell  
 
@@ -34,9 +34,9 @@ If the command is in our "Commands" we will execute it, if not we will send it t
 
 •	DELETE - delete the file that comes after the DELETE 
 
-How to run:
+## How to run:
 
- Write "make all"
+Write "make all"
 
 run "./main"
 
