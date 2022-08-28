@@ -14,29 +14,29 @@ If the command is in our "Commands" we will execute it, if not we will send it t
 
 ## Commands:
 
-•	EXIT - exits the shell  
+* EXIT - exits the shell  
 
-•	getcwd - prints the current repo
+* getcwd - prints the current repo
 
-•	ECHO - print everything that comes after ECHO
+* ECHO - print everything that comes after ECHO
 
-•	TCP PORT - connect to a local server (server.c) transfers all  commends to local server
+* TCP PORT - connect to a local server (server.c) transfers all  commends to local server
 
-•	LOCAL - disconnects the server and goes back to the shell 
+* LOCAL - disconnects the server and goes back to the shell 
 
-•	DIR - print everything the current repo contains 
+* DIR - print everything the current repo contains 
 
-•	CD - open the repo that comes after CD
+* CD - open the repo that comes after CD
 
-•	COPY - copies the content of source file to destination file
+* COPY - copies the content of source file to destination file
 
-•	DELETE - delete the file that comes after the DELETE 
+* DELETE - delete the file that comes after the DELETE 
 
 ## How to run:
 
 Write "make all"
 
-run "./main"
+please run "./main"
 
 
 
