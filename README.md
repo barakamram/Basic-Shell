@@ -7,7 +7,7 @@ Liroy Melamed
 
 This project is a basic shell program
 
-# The way we made our project:
+## The way we made our project:
 Basiclly this is an infinite loop reciving commands from the user. 
 
 If the command is in our "Commands" we will execute it, if not we will send it to a regular bash and try to commit it.
