@@ -1,5 +1,3 @@
-# Basic-Shell
-
 # Authors
 Barak Amram
 
